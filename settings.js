@@ -29,8 +29,8 @@ global.ownernomer = '+94766586061' //Owner Number <<<
 global.ownername = 'MR JAVITRHA' //Owner Name
 global.botname = ' MR JAVITRHA BOT' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ WHATSAPP ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/HFrDG9dfHHh3ohH2Lpe6uA' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = 'MR JAVITRHA.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = '' //Github Account!
+global.ig = 'https://github.com/MRJavitha' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
